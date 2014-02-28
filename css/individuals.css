@@ -2,7 +2,7 @@
 * { margin: 0; padding: 0; }
 
 .comic{
-  width:60%;
+  width:90%;
   display: block;
   margin:0 auto;
   text-align: center;
@@ -334,15 +334,18 @@
   }
 }
 
-.prevnext {
-  margin-left:auto;
-  margin-right:auto;
-  width:100%;
+table{
+  margin:auto;
+  width: 100%;
 }
 
-.arrows{
-  width:70%;
-  margin-left:15%;
-  margin-right:15%;
+a {
+  text-decoration: none;
+  color: black;
+  top: 50%;
+  position: fixed;
+}
+
+td{
   text-align: center;
 }
